@@ -1,0 +1,7 @@
+fercho: Hola a todos 
+juan: hola fercho
+boites: hola ferch
+fercho: como estan?
+juan: bien gracias
+boites: muy bien, espero pasar jeje
+fercho: es mando un archivo amigos mios, para probar
